@@ -1,7 +1,7 @@
 #! C:\Users\Familia\Anaconda3\python
 #example of making the .py file a script
 
-#Capter 3. A First Python Program
+#Chapter 3. A First Python Program
 
 #prints
 print('Hello world')
