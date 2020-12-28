@@ -1,4 +1,4 @@
-# string.split(character) splits a string using the character given
+# string_name.split(character) splits a string using the character given
 # note: we call the split METHOD with the string_name.split
 phrase = 'Python, C, Java, Fortran, are programming languages'
 

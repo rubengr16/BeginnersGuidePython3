@@ -1,5 +1,5 @@
-# string.istitle() method tells us if string is title, string.title() method changes string to title
-#  sting.isalpha() method indicates if the string is completely formed by alphabetical characters
+# string_name.istitle() method tells us if string is title, string_name.title() method changes string to title
+# string_name.isalpha() method indicates if the string is completely formed by alphabetical characters
 phrase = 'Python, C, Java, Fortran, are programming languages'
 jon = 'Jon'
 

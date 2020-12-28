@@ -1,5 +1,5 @@
-# string.startswith(substring) tells us if a string starts with the substring or
-# string.endswith(substring) tells us if a string ends with the substring, both return a boolean
+# string_name.startswith(substring) tells us if a string starts with the substring or
+# string_name.endswith(substring) tells us if a string ends with the substring, both return a boolean
 jon = 'jon'
 ygritte = 'ygritte'
 

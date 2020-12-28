@@ -1,5 +1,5 @@
 # creation of a format string using '{}' place holders
-# string.format(value) method populates the string place holder(s) with the value(s)
+# string_name.format(value) method populates the string place holder(s) with the value(s)
 
 my_string = '{} is {} years old'  # no index, values will follow the order in which they are provided on format
 
