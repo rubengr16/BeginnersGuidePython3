@@ -1,4 +1,4 @@
-# adding: +, substracting: - and multiplying: * between int produces an int result
+# Adding: +, substracting: - and multiplying: * between int produces an int result
 x = 13
 y = 2
 
@@ -14,7 +14,7 @@ print('x - y type:', type(x - y))
 print('x * y =', x * y)
 print('x * y type:', type(x * y))
 
-# division: / returns a float, although the numbers divide each other exactly
+# Division: / returns a float, although the numbers divide each other exactly
 # it defaults a floating point number as python does not know which result will be given
 print('x / y =', x / y)
 print('x / y type:', type(x / y))

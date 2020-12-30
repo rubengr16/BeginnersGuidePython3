@@ -1,5 +1,5 @@
 #! C:\Users\Familia\Anaconda3\python
-# example of making the .py file a script
+# Example of making the .py file a script
 
-# prints
+# Prints
 print('Hello world')

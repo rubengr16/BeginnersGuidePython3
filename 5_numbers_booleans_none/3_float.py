@@ -1,4 +1,4 @@
-# real numbers are represented by float type with the IEEE 154 double-precission binary floating point number format
+# Real numbers are represented by float type with the IEEE 154 double-precission binary floating point number format
 my_float = 1.65
 print(my_float)
 print(type(my_float))

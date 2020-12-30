@@ -1,4 +1,4 @@
-# integral numbers are represented by int type indepently from their size
+# Integral numbers are represented by int type indepently from their size
 integer = 1
 print(integer)
 print('x type:', type(integer))

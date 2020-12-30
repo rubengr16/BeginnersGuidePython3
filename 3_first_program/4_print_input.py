@@ -1,4 +1,4 @@
-# asks for input and prints
+# Asks for input and prints
 username = input('Enter your name: ')
 print('Enter your surname: ')
 surname = input()
