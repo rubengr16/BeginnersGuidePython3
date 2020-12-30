@@ -1,4 +1,4 @@
-# using the string_names.count(substring) method we can count how many times is repeated a substring
+# Using the string_names.count(substring) method we can count how many times is repeated a substring
 phrase = 'Python, C, Java, Fortran, are programming languages'
 
 print('Source Phrase', phrase)

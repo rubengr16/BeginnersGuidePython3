@@ -1,5 +1,5 @@
-# type(variable_name) function is useful for knowing the type of the variable we are using at the moment
-# note: python is a dynamically typed language
+# Type(variable_name) function is useful for knowing the type of the variable we are using at the momment
+# Note: python is a dynamically typed language
 # int : integer
 my_int = 2
 print(my_int, 'variable type', type(my_int))

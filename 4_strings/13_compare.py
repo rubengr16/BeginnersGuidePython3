@@ -1,5 +1,5 @@
-# string comparison is made using '==' for equals and '!=' not equals, both returns True or False
-# note: python is case sensitive
+# String comparison is made using '==' for equals and '!=' not equals, both returns True or False
+# Note: python is case sensitive
 jon = 'jon'
 ygritte = 'ygritte'
 print(jon, '==', ygritte, jon == jon)

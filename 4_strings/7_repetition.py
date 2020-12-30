@@ -1,4 +1,4 @@
-# string repetition is made by the '*' operator
+# String repetition is made by the '*' operator
 print('#' * 40)
 
 stry = 'Hello from the other side'
