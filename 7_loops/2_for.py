@@ -8,8 +8,12 @@ print('Numbers from 0 to 10:')
 
 for i in range(0, 10):  # i variable does not need initialization, the range is range(initial_value, end_value),
 # the end_value is excluded 
-    print(i, ' ', end = '')  # print function prints a new line in each call, end = ' ' avoids it and allows us to
+    print(i, ' ', end = '')  # print function prints a new line in each call, end = '' avoids it and allows us to
 # print in the same line
+
+print()
+for _ in range(0, 150):  # By convention _ variable is an anonimous variable, although it can be printed
+    print('.', end = '')
 
 print()
 print('Done')
