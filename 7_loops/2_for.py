@@ -7,11 +7,15 @@
 print('Numbers from 0 to 10:')
 
 for i in range(0, 10):  # i variable does not need initialization, the range is range(initial_value, end_value),
-# the end_value is excluded 
+                        # the end_value is excluded 
     print(i, ' ', end = '')  # print function prints a new line in each call, end = '' avoids it and allows us to
-# print in the same line
+                             # print in the same line
 
 print()
+for i in range(0, 10, 2):  # the 3rd argument of the range function determines the value to increment the loop value
+                           # on each iteration 
+    print(i, ' ', end = '')
+
 for _ in range(0, 150):  # By convention _ variable is an anonimous variable, although it can be printed
     print('.', end = '')
 
